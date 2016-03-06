@@ -1,0 +1,427 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 96AA-73CF
+
+ Directory of C:\Users\Michiel\WebstormProjects\store
+
+06-03-2016  12:03    <DIR>          .
+06-03-2016  12:03    <DIR>          ..
+06-03-2016  10:11             7.692 add.txt
+06-03-2016  11:56                15 cat.txt
+06-03-2016  09:54                37 license.txt
+06-03-2016  12:03                 0 products.txt
+06-03-2016  09:55               240 readme.txt
+06-03-2016  12:02               542 store.txt
+               6 File(s)          8.526 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git
+
+06-03-2016  12:02                14 COMMIT_EDITMSG
+06-03-2016  11:57               328 config
+05-03-2016  15:35                73 description
+06-03-2016  12:01                96 FETCH_HEAD
+06-03-2016  12:01                23 HEAD
+05-03-2016  15:35    <DIR>          hooks
+06-03-2016  12:02               441 index
+05-03-2016  15:35    <DIR>          info
+05-03-2016  15:38    <DIR>          logs
+06-03-2016  12:02    <DIR>          objects
+06-03-2016  12:01                41 ORIG_HEAD
+06-03-2016  10:27    <DIR>          refs
+               7 File(s)          1.016 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\hooks
+
+05-03-2016  15:35    <DIR>          .
+05-03-2016  15:35    <DIR>          ..
+05-03-2016  15:35               478 applypatch-msg.sample
+05-03-2016  15:35               896 commit-msg.sample
+05-03-2016  15:35               189 post-update.sample
+05-03-2016  15:35               424 pre-applypatch.sample
+05-03-2016  15:35             1.642 pre-commit.sample
+05-03-2016  15:35             1.348 pre-push.sample
+05-03-2016  15:35             4.951 pre-rebase.sample
+05-03-2016  15:35             1.239 prepare-commit-msg.sample
+05-03-2016  15:35             3.611 update.sample
+               9 File(s)         14.778 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\info
+
+05-03-2016  15:35    <DIR>          .
+05-03-2016  15:35    <DIR>          ..
+05-03-2016  15:35               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\logs
+
+05-03-2016  15:38    <DIR>          .
+05-03-2016  15:38    <DIR>          ..
+06-03-2016  12:02             4.049 HEAD
+06-03-2016  10:27    <DIR>          refs
+               1 File(s)          4.049 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\logs\refs
+
+06-03-2016  10:27    <DIR>          .
+06-03-2016  10:27    <DIR>          ..
+06-03-2016  11:57    <DIR>          heads
+06-03-2016  10:27    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\logs\refs\heads
+
+06-03-2016  11:57    <DIR>          .
+06-03-2016  11:57    <DIR>          ..
+06-03-2016  12:01               464 admin
+06-03-2016  12:02             2.578 master
+               2 File(s)          3.042 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\logs\refs\remotes
+
+06-03-2016  10:27    <DIR>          .
+06-03-2016  10:27    <DIR>          ..
+06-03-2016  10:27    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\logs\refs\remotes\origin
+
+06-03-2016  10:27    <DIR>          .
+06-03-2016  10:27    <DIR>          ..
+06-03-2016  10:27               146 master
+               1 File(s)            146 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects
+
+06-03-2016  12:02    <DIR>          .
+06-03-2016  12:02    <DIR>          ..
+06-03-2016  10:18    <DIR>          04
+06-03-2016  12:02    <DIR>          10
+06-03-2016  11:54    <DIR>          12
+06-03-2016  09:55    <DIR>          15
+06-03-2016  09:55    <DIR>          1a
+06-03-2016  10:11    <DIR>          21
+06-03-2016  12:00    <DIR>          24
+06-03-2016  09:58    <DIR>          2b
+06-03-2016  10:18    <DIR>          31
+06-03-2016  10:18    <DIR>          41
+06-03-2016  10:12    <DIR>          49
+06-03-2016  11:55    <DIR>          4c
+05-03-2016  15:42    <DIR>          52
+05-03-2016  15:41    <DIR>          5c
+06-03-2016  12:00    <DIR>          62
+06-03-2016  12:01    <DIR>          63
+05-03-2016  15:38    <DIR>          71
+06-03-2016  10:12    <DIR>          73
+06-03-2016  12:00    <DIR>          83
+06-03-2016  11:55    <DIR>          94
+06-03-2016  09:55    <DIR>          9c
+06-03-2016  10:17    <DIR>          a9
+06-03-2016  12:01    <DIR>          af
+06-03-2016  12:01    <DIR>          b0
+06-03-2016  12:02    <DIR>          b5
+05-03-2016  15:42    <DIR>          cd
+06-03-2016  10:19    <DIR>          d4
+06-03-2016  12:00    <DIR>          d5
+06-03-2016  10:17    <DIR>          d9
+06-03-2016  12:02    <DIR>          e0
+06-03-2016  09:50    <DIR>          e2
+05-03-2016  15:41    <DIR>          e9
+06-03-2016  10:17    <DIR>          ea
+05-03-2016  15:37    <DIR>          ec
+05-03-2016  15:35    <DIR>          info
+05-03-2016  15:35    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\04
+
+06-03-2016  10:18    <DIR>          .
+06-03-2016  10:18    <DIR>          ..
+06-03-2016  10:18               171 72c3511d1340b6fc2b17f531bde0ecc0154f05
+               1 File(s)            171 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\10
+
+06-03-2016  12:02    <DIR>          .
+06-03-2016  12:02    <DIR>          ..
+06-03-2016  12:02               162 5ad596f5b947c4f12e2127bc196a118441cef8
+               1 File(s)            162 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\12
+
+06-03-2016  11:54    <DIR>          .
+06-03-2016  11:54    <DIR>          ..
+06-03-2016  11:54                31 40a3052fa78b1cc4640e9ddc27e90457766ca7
+               1 File(s)             31 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\15
+
+06-03-2016  09:55    <DIR>          .
+06-03-2016  09:55    <DIR>          ..
+06-03-2016  09:55                86 aacded314e79fe0caeedcf52a4100b0ab6b41e
+               1 File(s)             86 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\1a
+
+06-03-2016  09:55    <DIR>          .
+06-03-2016  09:55    <DIR>          ..
+06-03-2016  09:55               170 fb7b94369c8bd2cd2f859048a03bf40126770a
+               1 File(s)            170 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\21
+
+06-03-2016  10:11    <DIR>          .
+06-03-2016  10:11    <DIR>          ..
+06-03-2016  10:11             2.745 699143acc256f2c292892ad750bbbd9ab255eb
+               1 File(s)          2.745 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\24
+
+06-03-2016  12:00    <DIR>          .
+06-03-2016  12:00    <DIR>          ..
+06-03-2016  12:00               276 ad42621bd3d2fb748cf6a03984cd3ee2bedd6e
+               1 File(s)            276 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\2b
+
+06-03-2016  09:58    <DIR>          .
+06-03-2016  09:58    <DIR>          ..
+06-03-2016  09:58               159 48613795f1f2a9e4a6a54437534693ff77a8a1
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\31
+
+06-03-2016  10:18    <DIR>          .
+06-03-2016  10:18    <DIR>          ..
+06-03-2016  10:18               172 ff6d1a5e7d2e20f597226b5313140c9cf21d84
+               1 File(s)            172 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\41
+
+06-03-2016  10:18    <DIR>          .
+06-03-2016  10:18    <DIR>          ..
+06-03-2016  10:18               267 0fa82814849f8e3f5251543cc19a0cd1a72f7a
+               1 File(s)            267 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\49
+
+06-03-2016  10:12    <DIR>          .
+06-03-2016  10:12    <DIR>          ..
+06-03-2016  10:12               180 7dab4b8d21e576e8f3b7d29370bc0cd5003ae6
+               1 File(s)            180 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\4c
+
+06-03-2016  11:55    <DIR>          .
+06-03-2016  11:55    <DIR>          ..
+06-03-2016  11:55               165 62f1de45df2aa114fdff065886fb11d9c2cd69
+               1 File(s)            165 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\52
+
+05-03-2016  15:42    <DIR>          .
+05-03-2016  15:42    <DIR>          ..
+05-03-2016  15:42               169 de3a5e71d5d4d347efd5f3ec7927260c3290d3
+               1 File(s)            169 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\5c
+
+05-03-2016  15:41    <DIR>          .
+05-03-2016  15:41    <DIR>          ..
+05-03-2016  15:41               244 ae41fdc78102e286b41e4d79f6fd6a927a30e8
+               1 File(s)            244 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\62
+
+06-03-2016  12:00    <DIR>          .
+06-03-2016  12:00    <DIR>          ..
+06-03-2016  10:17               257 5ca6da56672a3877870b95b1b3361ac2f0af69
+06-03-2016  10:00               167 9e0da724a9aa0d0809b9824f34f1b7715aa188
+06-03-2016  12:00                58 cff6674a4a750f6bfd60874477eea98ca1493c
+               3 File(s)            482 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\63
+
+06-03-2016  12:01    <DIR>          .
+06-03-2016  12:01    <DIR>          ..
+06-03-2016  12:01               173 522bae0601d87e13d7e43e54c5e76652feeef8
+               1 File(s)            173 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\71
+
+05-03-2016  15:38    <DIR>          .
+05-03-2016  15:38    <DIR>          ..
+05-03-2016  15:38               130 a5dbc26e351c995eb0107a958aed3e81881d86
+               1 File(s)            130 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\73
+
+06-03-2016  10:12    <DIR>          .
+06-03-2016  10:12    <DIR>          ..
+06-03-2016  10:12               116 3713fff28c45c28109069c197e0a118769adf2
+05-03-2016  15:38                55 c567c7c354ea25a9b4981d771ce2d57a06ea85
+               2 File(s)            171 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\83
+
+06-03-2016  12:00    <DIR>          .
+06-03-2016  12:00    <DIR>          ..
+06-03-2016  12:00               173 81989f4e4b070af66307c47cfe7f4b5c630ffa
+               1 File(s)            173 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\94
+
+06-03-2016  11:55    <DIR>          .
+06-03-2016  11:55    <DIR>          ..
+06-03-2016  11:55               143 a5af3656558b3f3ace6a2c2cb464adba196fb8
+               1 File(s)            143 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\9c
+
+06-03-2016  09:55    <DIR>          .
+06-03-2016  09:55    <DIR>          ..
+06-03-2016  09:55               159 db62166df202e7664bc22edad842ba23298789
+               1 File(s)            159 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\a9
+
+06-03-2016  10:17    <DIR>          .
+06-03-2016  10:17    <DIR>          ..
+06-03-2016  10:17               168 2a8fe734b398ffddf1be91938a115777411c1a
+               1 File(s)            168 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\af
+
+06-03-2016  12:01    <DIR>          .
+06-03-2016  12:01    <DIR>          ..
+06-03-2016  12:00               160 33c22e29b6a3f7dfa7b42831507039059ca690
+06-03-2016  12:01                88 3a7367e555272f0c1218e9fcb1489e8c78d3fd
+               2 File(s)            248 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\b0
+
+06-03-2016  12:01    <DIR>          .
+06-03-2016  12:01    <DIR>          ..
+06-03-2016  12:01               161 66bd2be5094d67afd0307e3f047ccb68400659
+               1 File(s)            161 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\b5
+
+06-03-2016  12:02    <DIR>          .
+06-03-2016  12:02    <DIR>          ..
+06-03-2016  12:02               173 2c765205ac70df1ae8366b22cd9caf8374054d
+               1 File(s)            173 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\cd
+
+05-03-2016  15:42    <DIR>          .
+05-03-2016  15:42    <DIR>          ..
+05-03-2016  15:42                86 546a146662ae850f7bfac75e8047e56cae1d6c
+               1 File(s)             86 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\d4
+
+06-03-2016  10:19    <DIR>          .
+06-03-2016  10:19    <DIR>          ..
+06-03-2016  10:19               185 b79aa27387a20a0e4b43e1b399b98295d5376e
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\d5
+
+06-03-2016  12:00    <DIR>          .
+06-03-2016  12:00    <DIR>          ..
+06-03-2016  12:00               275 c0e4af196e4d81c0577461a9e9bc60df09a86e
+               1 File(s)            275 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\d9
+
+06-03-2016  10:17    <DIR>          .
+06-03-2016  10:17    <DIR>          ..
+06-03-2016  10:17               180 e590da2879e405e45ac3ef4e13e7ede5adddbc
+               1 File(s)            180 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\e0
+
+06-03-2016  12:02    <DIR>          .
+06-03-2016  12:02    <DIR>          ..
+06-03-2016  12:02               274 b79d86fce0f950345ce2019e579d22de046d53
+               1 File(s)            274 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\e2
+
+06-03-2016  09:50    <DIR>          .
+06-03-2016  09:50    <DIR>          ..
+06-03-2016  09:50                65 ca28b26396197b46520ea07ac0e0530a0303c7
+               1 File(s)             65 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\e9
+
+05-03-2016  15:41    <DIR>          .
+05-03-2016  15:41    <DIR>          ..
+05-03-2016  15:41                53 68ddbac715c9831f055fede9898fc2dcf45b9e
+               1 File(s)             53 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\ea
+
+06-03-2016  10:17    <DIR>          .
+06-03-2016  10:17    <DIR>          ..
+06-03-2016  10:17               147 b786bbd824ba21683bd2f9fde47debff5ba8cc
+               1 File(s)            147 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\ec
+
+05-03-2016  15:37    <DIR>          .
+05-03-2016  15:37    <DIR>          ..
+05-03-2016  15:37               216 6b99390250624e943b3f01d48adc5899c0328b
+               1 File(s)            216 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\info
+
+05-03-2016  15:35    <DIR>          .
+05-03-2016  15:35    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\objects\pack
+
+05-03-2016  15:35    <DIR>          .
+05-03-2016  15:35    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\refs
+
+06-03-2016  10:27    <DIR>          .
+06-03-2016  10:27    <DIR>          ..
+06-03-2016  12:02    <DIR>          heads
+06-03-2016  10:27    <DIR>          remotes
+05-03-2016  15:35    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\refs\heads
+
+06-03-2016  12:02    <DIR>          .
+06-03-2016  12:02    <DIR>          ..
+06-03-2016  12:01                41 admin
+06-03-2016  12:02                41 master
+               2 File(s)             82 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\refs\remotes
+
+06-03-2016  10:27    <DIR>          .
+06-03-2016  10:27    <DIR>          ..
+06-03-2016  11:37    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\refs\remotes\origin
+
+06-03-2016  11:37    <DIR>          .
+06-03-2016  11:37    <DIR>          ..
+06-03-2016  10:27                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\Michiel\WebstormProjects\store\.git\refs\tags
+
+05-03-2016  15:35    <DIR>          .
+05-03-2016  15:35    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              68 File(s)         40.579 bytes
+             149 Dir(s)  127.587.971.072 bytes free
