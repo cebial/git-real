@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 96AA-73CF
+
+ Directory of C:\Users\Michiel\WebstormProjects\store
+
+06-03-2016  11:59    <DIR>          .
+06-03-2016  11:59    <DIR>          ..
+06-03-2016  10:11             7.692 add.txt
+06-03-2016  12:00    <DIR>          admin
+06-03-2016  11:56                15 cat.txt
+06-03-2016  09:54                37 license.txt
+06-03-2016  09:55               240 readme.txt
+               4 File(s)          7.984 bytes
+               3 Dir(s)  127.588.044.800 bytes free
